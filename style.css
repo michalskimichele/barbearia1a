@@ -1,14 +1,20 @@
 body{
-background: #ccccC ;
-}
+
+} 
 #banner{
     width:100%;
 }
 .principal
-P{
-    text-align:center;
+{
+  background:#cccccc;  
     }
     em strong{
+        h1{ 
+             text-align: ;center;
+        }
+        p{
+            text-align: center
+        };
         color:red 
     }
     
