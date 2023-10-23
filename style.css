@@ -7,14 +7,40 @@ body{
 .principal
 {
   background:#cccccc;  
+  padding: 30px
+}
+h1{
+    text-align: center;
+    }
+    p{
+        text-align: center;
     }
     em strong{
-        h1{ 
-             text-align: ;center;
-        }
-        p{
-            text-align: center
-        };
-        color:red 
+        text-align: center;
     }
+    #missao{
+        font-size: 20px;
+    }
+    .itens{
+        font-style: italic;
+    }
+    .beneficios{
+        background: #ffffff;
+        padding: 20px;
+    }
+    em strong{
+        color: aqua;
+    }
+        h2{
+            text-align: center;
+        }
+        ul{
+            display:inline-block;
+            vertical-align: top;
+            width: 20%;
+            margin-right: 15%;
+        }
+        .imagembeneficios{
+            width: 50%;
+        }
     
