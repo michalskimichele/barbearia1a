@@ -16,7 +16,7 @@ h1{
         text-align: center;
     }
     em strong{
-        text-align: center;
+        color: rgb(0, 195, 255);
     }
     #missao{
         font-size: 20px;
